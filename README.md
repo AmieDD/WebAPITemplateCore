@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Web API Template for .NET Core
 
 You can use the [editor on GitHub](https://github.com/AmieDD/WebAPITemplateCore/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
