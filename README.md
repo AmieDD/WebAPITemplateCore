@@ -3,8 +3,7 @@
 ### Wiki for this Project
 [Web API for .NET Core Template](https://amiedd.github.io/WebAPITemplateCore/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+![](https://github.com/AmieDD/WebAPITemplateCore/blob/master/Images/.NETCore_WebAPI_Starter_Template.png)
 ## NuGet Packages
 
 Microsoft.AspNetCore.All(2.1.5)
@@ -13,6 +12,6 @@ Swashbuckle.AspNetCore.Filters(4.3.0)
 
 ## SDK
 
-Microsoft.NETCore.App(2.1
+Microsoft.NETCore.App(2.1)
 
 
